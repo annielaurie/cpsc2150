@@ -1,0 +1,10 @@
+Final grade = 82/100
+_____________________
+
+31/45 Mortgage View
+	-14 Checkin preconditions should only happen in the
+		controller
+
+55/55 Mortgage Controller
+
+-1 magic number 850

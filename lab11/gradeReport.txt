@@ -1,0 +1,17 @@
+Final grade = 98/100
+_____________________
+
+20/20 View Does User Interaction
+
+18/20 Input Validation
+	-2 850 should be a valid credit score
+
+20/20 Model Does Calculations
+
+10/10 Comments
+
+10/10 Rate Display
+
+10/10 Payment Display
+
+5/5	  No Error Messages For Valid Input
